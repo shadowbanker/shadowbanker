@@ -7,4 +7,4 @@ And finally, it is the measure of the information grade and the ability for them
 Gaios, is an open source code that I developed with the guidance of AI to be able to build a "lego" piece set for people to build freely.
 I wish you the best as you already are it if you are seeing this.
 Yours truly,
-JBS
+Baba
